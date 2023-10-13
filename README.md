@@ -1,0 +1,2 @@
+# logolicious
+Logolicious Shopify app
